@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Beerschot";
+    src: url('../beerschot.ttf');
+}
+
+h1 {
+	font-family: Beerschot;
+	color: #231536;
+	letter-spacing: 20px;
+}
+
+h2 {
+	font-family: Beerschot;
+	color: #231536;
+}
+
+a {
+	color: DarkViolet;
+}
+
+a:active {
+	color: BlueViolet;
+}
+
+img {
+	max-width: 100%;
+}
+
+.wallpaper {
+	margin-bottom: 50px;
+}
+
+p {
+	color: grey;
+}
